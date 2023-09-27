@@ -1,15 +1,15 @@
-// Modified code
-function taskFirst() {
-	const a = 10;
-	const b = 20;
-
-	console.log(a + b);
+export function taskFirst() {
+  const task = 'I prefer const when I can.';
+  return task;
 }
 
+export function getLast() {
+  return ' is okay';
+}
 
-function taskNext() {
-	let y = 4;
-	let z = 5;
+export function taskNext() {
+  let combination = 'But sometimes let';
+  combination += getLast();
 
-	console.log(y * z);
+  return combination;
 }
