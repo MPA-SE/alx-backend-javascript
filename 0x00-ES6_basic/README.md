@@ -1,0 +1,1 @@
+This directory explores key concepts and features, including new enhancements of ES6. Such as about constants, variables, and the significance of block-scoped variables. Also arrow functions, default parameters, and rest/spread function parameters. Finally, string templating, object creation, properties, and manipulation in ES6, along with iterators and for-of loops.
